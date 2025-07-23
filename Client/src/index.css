@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&family=Roboto:wght@400;500&display=swap');
+
+
+@import "tailwindcss";
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+@theme {
+    --color-primary: #1E1E2F;
+    --color-primary-dull: #2563EB;
+    --color-light: #F9FAFB;
+    --color-borderColor: #111827;
+}
+
+/* body{
+    background-color:  #4F46E5;
+} */
